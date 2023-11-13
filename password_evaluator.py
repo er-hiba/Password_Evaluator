@@ -88,7 +88,3 @@ elif score(password) >= 40 and score(password) <= 80 :
     print("The password is strong")
 else:
     print("The password is very strong")
-
-
-
-        
